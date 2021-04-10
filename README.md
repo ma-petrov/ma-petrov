@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Job - risk analytic in bank
+Job - risk analyst at bank
 
 📫 petrov.ma@icloud.com
