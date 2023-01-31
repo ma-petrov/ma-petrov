@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Job - risk analyst at bank
+Job - python developer
 
 📫 petrov.ma@icloud.com
+✨ clipdecliprepeat.ru
