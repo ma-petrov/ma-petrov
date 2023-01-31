@@ -19,4 +19,4 @@ Job - python developer
 
 📫 petrov.ma@icloud.com
 
-✨ clipdecliprepeat.ru
+✨ <a href="https://clipdecliprepeat.ru">my web page</a>
