@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 Job - python developer
 
 📫 petrov.ma@icloud.com
+
 ✨ clipdecliprepeat.ru
